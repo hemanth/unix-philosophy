@@ -5,17 +5,17 @@ The idea of this repository is to explain The key aspects of Unix philosophy wit
 
 
 
-## Doug McIlroy's
+## Doug McIlroy + Peter H. Salus
 
-__Make each program do one thing well:__
-
----
-
-__Expect the output of every program to become the input to another:__ 
+__Write programs that do one thing and do it well:__
 
 ---
 
-__Use tools in preference to unskilled help:__
+__Write programs to work together:__ 
+
+---
+
+__Write programs to handle text streams, because that is a universal interface:__
 
 ---
 
