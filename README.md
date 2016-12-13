@@ -5,7 +5,7 @@ The idea of this repository is to explain The key aspects of Unix philosophy wit
 
 
 
-## Doug McIlroy + Peter H. Salus
+### Doug McIlroy + Peter H. Salus
 
 __Write programs that do one thing and do it well:__
 
@@ -19,7 +19,7 @@ __Write programs to handle text streams, because that is a universal interface:_
 
 ---
 
-## Eric Raymond’s
+### Eric Raymond’s
 
 __Rule of Modularity:__
 
@@ -66,3 +66,48 @@ __Rule of Economy:__
 ---
 
 __Rule of Extensibility:__
+
+---
+
+### Mike Gancarz
+
+__Small is beautiful:__
+
+---
+
+__Make each program do one thing well:__
+
+
+---
+
+__Build a prototype as soon as possible:__
+
+
+---
+
+__Choose portability over efficiency:__
+
+
+---
+
+__Store data in flat text files:__
+
+
+---
+
+__Use software leverage to your advantage:__
+
+
+---
+
+__Use shell scripts to increase leverage and portability:__
+
+
+---
+
+__Avoid captive user interfaces:__
+
+
+---
+
+__Make every program a filter:__
